@@ -1,5 +1,5 @@
 # KDK-Mirror
-Kerne Debug Kit Mirror for macOS Ventura
+Kernel Debug Kit Mirror for macOS Ventura
 
 
 | OS Version | Build | Kernel | Link |
