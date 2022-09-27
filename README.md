@@ -1,6 +1,7 @@
 # KDK-Mirror
 Kernel Debug Kit Mirror for macOS Ventura
 
+Added beta 5-6-7-8 KDKs and removed Public Beta 1.
 
 | OS Version | Build | Kernel | Link |
 | :--- | :--- | :--- | :--- |
