@@ -1,11 +1,40 @@
-# KDK-Mirror
-Kerne Debug Kit Mirror for macOS Ventura
+# KdkSupportPkg
 
+Repository dedicated to Kernel Debug Kit archival, with primary focus on macOS Ventura KDKs in relation to Root Volume Patching with OpenCore Legacy Patcher.
 
-| OS Version | Build | Kernel | Link |
-| :--- | :--- | :--- | :--- |
-| 13.0 Beta 1 |        22A5266r | NA | [13.0_Beta.1_22A5266r_KDK.dmg](https://github.com/khronokernel/KDK-Mirror/releases/download/22A5295i/13.0_Beta.1_22A5266r_KDK.dmg) |
-| 13.0 Beta 2 |        22A5286j | NA | [13.0_Beta.2_22A5286j_KDK.dmg](https://github.com/khronokernel/KDK-Mirror/releases/download/22A5295i/13.0_Beta.2_22A5286j_KDK.dmg) |
-| 13.0 Beta 3 |        22A5295h | NA | [13.0_Beta.3_22A5295h_KDK.dmg](https://github.com/khronokernel/KDK-Mirror/releases/download/22A5295i/13.0_Beta.3_22A5295h_KDK.dmg) |
-| 13.0 Public Beta 1 | 22A5295i | NA | [13.0_Beta.3.5_22A5295i_KDK.dmg](https://github.com/khronokernel/KDK-Mirror/releases/download/22A5295i/13.0_Beta.3.5_22A5295i_KDK.dmg) |
-| 13.0 Beta 4 |        22A5311f | NA | [13.0_Beta.4_22A5311f_KDK.dmg](https://github.com/khronokernel/KDK-Mirror/releases/download/22A5311f/13.0_Beta.4_22A5311f_KDK.dmg) |
+----------
+
+With macOS 13, Ventura, Apple dropped on-disk kernel binaries in `/System/Library/Extensions`. Due to this, end users cannot build Boot and System Kernel Collections without manually install a Kernel Debug Kit from Apple's Developer Site. However due to Apple's account requirement for downloads, automated retrival is not possible. Thus this repo will create a release for each KDK seeded, with the tag representing the build associated.
+
+Source for Kernel Debug Kits:
+
+* [Apple Developer Site: More Downloads](https://developer.apple.com/download/all/)
+
+----------
+
+Example of pulling releases:
+
+```py
+#!/usr/bin/env python3
+
+REQUESTED_BUILD = "22A5365d"
+
+KDK_MIRROR_REPOSITORY = "https://api.github.com/repos/dortania/KdkSupportPkg/releases"
+
+catalog = requests.get(KDK_MIRROR_REPOSITORY)
+if catalog.status_code != 200:
+    # Can't reach Github
+    return None
+
+catalog = catalog.json()
+
+for release in catalog:
+    if release["tag_name"] == REQUESTED_BUILD:
+        for asset in release["assets"]:
+            if asset["name"].endswith(".dmg"):
+                # Returns URL to rehosted Kernel Debug Kit
+                return asset["browser_download_url"]
+
+return None
+ ```
+ 
