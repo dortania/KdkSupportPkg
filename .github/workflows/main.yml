@@ -10,6 +10,9 @@ on:
     - cron: '15 18 * * *'
     - cron: '15 21 * * *'
 
+concurrency:
+  group: ${{ github.workflow }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
