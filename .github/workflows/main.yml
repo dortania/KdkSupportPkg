@@ -25,6 +25,8 @@ jobs:
         with:
           repository: ${{ secrets.CODE_REPO }}
           token: ${{ secrets.CODE_TOKEN }}
+          persist-credentials: false
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
