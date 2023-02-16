@@ -25,7 +25,7 @@
         "fileSize": 597524539,
         "md5sum": "456e6607e08a80cbb0a62e41e5746866",
         "name": "Kernel Debug Kit 13.0.1 build 22A400",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>ServerBusy</Code><Message>Egress is over the account limit.\nRequestId:d86f34a4-301e-005d-0a26-4228e1000000\nTime:2023-02-16T16:47:20.6970517Z</Message></Error>",
+        "sha256sum": "81c26d059652a956169981bbd0b8dc0d7300a66bc825b3220228bc0b87c55dea",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22A400/Kernel_Debug_Kit_13.0.1_build_22A400.dmg",
         "version": "13.0.1"
     },
