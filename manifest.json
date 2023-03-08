@@ -1,5 +1,15 @@
 [
     {
+        "build": "22E5236f",
+        "date": "2023-03-05T00:21:00",
+        "fileSize": 654899280,
+        "md5sum": "ef49fe8915cafe3bb6f2285e31d28629",
+        "name": "Kernel Debug Kit 13.3 build 22E5236f",
+        "sha256sum": "06bd60205609b53f969eab516fcbf968abd75ba28acc7c10ea286e203b89041e",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22E5236f/Kernel_Debug_Kit_13.3_build_22E5236f.dmg",
+        "version": "13.3"
+    },
+    {
         "build": "22E5230e",
         "date": "2023-02-24T23:36:00",
         "fileSize": 1036654820,
