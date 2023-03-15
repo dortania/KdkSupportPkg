@@ -115,7 +115,7 @@
         "fileSize": 595878873,
         "md5sum": "8cfead2de522a0e8edf357dad825d32e",
         "name": "Kernel Debug Kit 13.0 build 22A5321d",
-        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>ServerBusy</Code><Message>Egress is over the account limit.\nRequestId:0539686a-401e-001a-5c1e-5743ba000000\nTime:2023-03-15T09:15:48.7700896Z</Message></Error>",
+        "sha256sum": "8a880bf8cc61eb79d2fa6a587c9ed517482e2a0be15634debd5e562cbfcb45d6",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22A5321d/Kernel_Debug_Kit_13.0_build_22A5321d.dmg",
         "version": "13.0"
     },
@@ -123,7 +123,7 @@
         "build": "22A5311f",
         "date": "2022-07-27T18:04:00",
         "fileSize": 595914324,
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>ServerBusy</Code><Message>Egress is over the account limit.\nRequestId:a4a81e84-c01e-002b-411e-57a2a9000000\nTime:2023-03-15T09:15:49.1299982Z</Message></Error>",
+        "md5sum": "d3a071e224a73f9be841a85020e9354e",
         "name": "Kernel Debug Kit 13.0 build 22A5311f",
         "sha256sum": "ca65ce825b4a6b8fb17f0bab42ccd46e70cc939b64c97d47fda25389ec41144d",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22A5311f/Kernel_Debug_Kit_13.0_build_22A5311f.dmg",
