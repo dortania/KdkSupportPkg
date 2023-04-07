@@ -10,6 +10,16 @@
         "version": "13.4"
     },
     {
+        "build": "22E261",
+        "date": "2023-04-07T19:36:00",
+        "fileSize": 656971603,
+        "md5sum": "b48e73bd25a26b62cb68114d35aac580",
+        "name": "Kernel Debug Kit 13.3.1 build 22E261",
+        "sha256sum": "cc4710f0b236c0dcb20ef98f6b974ffc749bddd38d4d3b756f9d5f69de8127bc",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22E261/Kernel_Debug_Kit_13.3.1_build_22E261.dmg",
+        "version": "13.3.1"
+    },
+    {
         "build": "22E252",
         "date": "2023-03-27T17:35:00",
         "fileSize": 656976176,
