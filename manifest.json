@@ -1,5 +1,15 @@
 [
     {
+        "build": "22F5049e",
+        "date": "2023-04-22T14:17:00",
+        "fileSize": 654463301,
+        "md5sum": "218608c181847b50e554a47828ee63ab",
+        "name": "Kernel Debug Kit 13.4 build 22F5049e",
+        "sha256sum": "b2b49c503d38f04f776283c3323fdc96c2b3c628b404e01596237f8fe478e436",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22F5049e/Kernel_Debug_Kit_13.4_build_22F5049e.dmg",
+        "version": "13.4"
+    },
+    {
         "build": "22F5037d",
         "date": "2023-04-13T18:12:00",
         "fileSize": 654504232,
