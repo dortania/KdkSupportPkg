@@ -193,7 +193,7 @@
         "build": "22A5295h",
         "date": "2022-07-06T18:35:00",
         "fileSize": 594426395,
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:0e80ee19-e01e-0032-3851-7ae122000000\nTime:2023-04-29T04:16:30.0592555Z</Message><AuthenticationErrorDetail>Signed expiry time [Sat, 29 Apr 2023 04:16:30 GMT] must be after signed start time [Sat, 29 Apr 2023 04:16:30 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "c05899ce970e60f609fe8958b0a9f951",
         "name": "Kernel Debug Kit 13.0 build 22A5295h",
         "sha256sum": "c396b1e50875d2c0a7596f2f9bc7709672fd7fb69438a59f55c02e15230a3b22",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22A5295h/Kernel_Debug_Kit_13.0_build_22A5295h.dmg",
