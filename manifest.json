@@ -1,5 +1,15 @@
 [
     {
+        "build": "22G5038d",
+        "date": "2023-05-26T22:33:00",
+        "fileSize": 656662134,
+        "md5sum": "33aa283a8cc49dc3d9d308e95d08f9ce",
+        "name": "Kernel Debug Kit 13.5 build 22G5038dKernel Debug Kit 13.5 build 22G5038d",
+        "sha256sum": "798cfd3e39af2f63435fdac6f203d273a0df7c6bd8ae3a6396c593ee7ac55b98",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G5038d/Kernel_Debug_Kit_13.5_build_22G5038d.dmg",
+        "version": "13.5"
+    },
+    {
         "build": "22G5027e",
         "date": "2023-05-19T21:57:00",
         "fileSize": 656629399,
