@@ -243,7 +243,7 @@
         "build": "22A5266r",
         "date": "2022-06-06T17:20:00",
         "fileSize": 581587874,
-        "md5sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>503 backend read error</title>\n  </head>\n  <body>\n    <h1>Error 503 backend read error</h1>\n    <p>backend read error</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-iad-kiad7000155-IAD 1685809059 2102221942</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "md5sum": "2061d27cb4acf71a1ac03990fe443a4d",
         "name": "Kernel Debug Kit 13.0 build 22A5266r",
         "sha256sum": "bd0d4d449c8421449a30cbcc47ad63c5862868fbcc072a0fc9d92c81549c2c38",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22A5266r/Kernel_Debug_Kit_13.0_build_22A5266r.dmg",
