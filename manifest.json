@@ -30,6 +30,16 @@
         "version": "13.5"
     },
     {
+        "build": "22F66",
+        "date": "9999-01-01T00:00:00",
+        "fileSize": 654363051,
+        "md5sum": "cbafbb431ac662342f00e50ff4a2863d",
+        "name": "Kernel Debug Kit 13.4 build 22F66",
+        "sha256sum": "8fd3da4a5f301fe8da66719c615c1d5c4dd6de916d84e8025ee1513dcc9f5d29",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22F66/Kernel_Debug_Kit_13.4_build_22F66.dmg",
+        "version": "13.4"
+    },
+    {
         "build": "22F5059b",
         "date": "2023-04-29T18:50:00",
         "fileSize": 654356659,
@@ -118,6 +128,16 @@
         "sha256sum": "1b523d0761c8dae0880bc172fef8713b40e80eced0c58d7641dc0ff8a2d36c77",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22E5219e/Kernel_Debug_Kit_13.3_build_22E5219e.dmg",
         "version": "13.3"
+    },
+    {
+        "build": "22D68",
+        "date": "9999-01-01T00:00:00",
+        "fileSize": 669949918,
+        "md5sum": "c9dbc69e67e6412ad95bdfde79125608",
+        "name": "Kernel Debug Kit 13.2.1 build 22D68",
+        "sha256sum": "b874195aa5408d648cee522ee7e9a44d419c63cef46e5999dd5471813cd4e816",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22D68/Kernel_Debug_Kit_13.2.1_build_22D68.dmg",
+        "version": "13.2.1"
     },
     {
         "build": "22D49",
