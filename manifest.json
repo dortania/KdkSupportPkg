@@ -1,5 +1,15 @@
 [
     {
+        "build": "23A5286i",
+        "date": "2023-07-11T19:31:00",
+        "fileSize": 672438784,
+        "md5sum": "7f8f6c92ff58836a3e64280ef4fd22c1",
+        "name": "Kernel Debug Kit 14.0 build 23A5286i",
+        "sha256sum": "39791c5c2815ba91c33d5942772fb6088c9d820f6bc82cfb00406ecdc7b91144",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23A5286i/Kernel_Debug_Kit_14.0_build_23A5286i.dmg",
+        "version": "14.0"
+    },
+    {
         "build": "23A5286g",
         "date": "2023-07-05T17:23:00",
         "fileSize": 672445413,
