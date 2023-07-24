@@ -30,6 +30,16 @@
         "version": "14.0"
     },
     {
+        "build": "22G74",
+        "date": "2023-07-24T17:42:00",
+        "fileSize": 658949979,
+        "md5sum": "4812050c796b0d14f80cc4618a969446",
+        "name": "Kernel Debug Kit 13.5 build 22G74",
+        "sha256sum": "29866842eef039812888daea4176ce493be153b0d6d1b88f90753d69ea51b7d4",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G74/Kernel_Debug_Kit_13.5_build_22G74.dmg",
+        "version": "13.5"
+    },
+    {
         "build": "22G5072a",
         "date": "2023-07-10T18:33:00",
         "fileSize": 658806774,
