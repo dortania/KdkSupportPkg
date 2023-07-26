@@ -125,7 +125,7 @@
         "fileSize": 654356659,
         "md5sum": "ff1a160913a1433ae19325f56db9741b",
         "name": "Kernel Debug Kit 13.4 build 22F5059b",
-        "sha256sum": "6e326a6503f8581a8a0a9ce77b3e7220bd1c9378fa655dfa7ea2c7963e7398c6",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>ServerBusy</Code><Message>Egress is over the account limit.\nRequestId:53e7f3e7-801e-0034-16ce-bfd29d000000\nTime:2023-07-26T14:36:05.3684942Z</Message></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22F5059b/Kernel_Debug_Kit_13.4_build_22F5059b.dmg",
         "version": "13.4"
     },
