@@ -60,6 +60,16 @@
         "version": "14.0"
     },
     {
+        "build": "22G90",
+        "date": "2023-08-17T18:02:00",
+        "fileSize": 658969020,
+        "md5sum": "0d06964b02d2927d305382e3894688ef",
+        "name": "Kernel Debug Kit 13.5.1 build 22G90",
+        "sha256sum": "76e086493f6f07fb92ff899a21b22b97bc22457dc9d939ac18e0f7732d8db6e3",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G90/Kernel_Debug_Kit_13.5.1_build_22G90.dmg",
+        "version": "13.5.1"
+    },
+    {
         "build": "22G74",
         "date": "2023-07-24T17:42:00",
         "fileSize": 658949979,
