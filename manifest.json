@@ -1,5 +1,25 @@
 [
     {
+        "build": "23A5337a",
+        "date": "2023-08-30T20:32:00",
+        "fileSize": 676724426,
+        "md5sum": "294e066c3e85a69941edb44f8f068fe5",
+        "name": "Kernel Debug Kit 14.0 build 23A5337a",
+        "sha256sum": "57d6923420eb066c3db8104ad82c580dd04cc8ca400964b1244af8402ab03299",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23A5337a/Kernel_Debug_Kit_14.0_build_23A5337a.dmg",
+        "version": "14.0"
+    },
+    {
+        "build": "23A5328b",
+        "date": "2023-08-22T17:44:00",
+        "fileSize": 676790049,
+        "md5sum": "07ed9eedb43e51fd5139c61f57d67270",
+        "name": "Kernel Debug Kit 14.0 build 23A5328b",
+        "sha256sum": "745195f5a42e75b72383dcfce198c8b4832029ee1967e853d0b50df2110368a6",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23A5328b/Kernel_Debug_Kit_14.0_build_23A5328b.dmg",
+        "version": "14.0"
+    },
+    {
         "build": "23A5312d",
         "date": "2023-08-08T17:56:00",
         "fileSize": 676358641,
@@ -58,6 +78,16 @@
         "sha256sum": "5538678768cf36d8ee5daad18099cc8dc141698ea4a667b06d90e56b0c7f1fa8",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23A5257q/Kernel_Debug_Kit_14.0_build_23A5257q.dmg",
         "version": "14.0"
+    },
+    {
+        "build": "22G91",
+        "date": "2023-09-07T17:56:00",
+        "fileSize": 658914910,
+        "md5sum": "d99769cf88bd908fb95b497b4b834a8c",
+        "name": "Kernel Debug Kit 13.5.2 build 22G91",
+        "sha256sum": "0f6e4e37a7b5e7df3cefdf2b433d6ca3cbb6c22383de151ad784ec83ac6be9da",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G91/Kernel_Debug_Kit_13.5.2_build_22G91.dmg",
+        "version": "13.5.2"
     },
     {
         "build": "22G90",
