@@ -1,5 +1,16 @@
 [
     {
+        "build": "23C5041e",
+        "date": "2023-11-09T20:11:00",
+        "fileSize": 887286247,
+        "md5sum": "950689cb5096e5d669eba74990386a2c",
+        "name": "Kernel Debug Kit 14.2 build 23C5041e",
+        "seen": "2023-11-09T21:12:21Z",
+        "sha256sum": "a7eaa0253029b463680c00f6ad441cf82a93f9e9fe535618240ea31cb1a2e3d2",
+        "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23C5041e/Kernel_Debug_Kit_14.2_build_23C5041e.dmg",
+        "version": "14.2"
+    },
+    {
         "build": "23C5030f",
         "date": "2023-10-26T19:36:00",
         "fileSize": 672205318,
