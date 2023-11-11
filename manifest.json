@@ -234,7 +234,7 @@
         "build": "22G5059d",
         "date": "2023-06-27T17:35:00",
         "fileSize": 658483785,
-        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:c5f6127f-d01e-0064-218a-1410cd000000\nTime:2023-11-11T10:36:00.0131576Z</Message><AuthenticationErrorDetail>Signed expiry time [Sat, 11 Nov 2023 10:36:00 GMT] must be after signed start time [Sat, 11 Nov 2023 10:36:00 GMT]</AuthenticationErrorDetail></Error>",
+        "md5sum": "7be73f1aca7643de359a69a00d86c909",
         "name": "Kernel Debug Kit 13.5 build 22G5059d",
         "seen": "2023-06-27T18:19:40Z",
         "sha256sum": "a9b9519ea2602cb09c3cc9d147dabef3dba88c8114dd80297581c7b3bf77308b",
