@@ -5,7 +5,6 @@
         "fileSize": 887275415,
         "md5sum": "0c2e657553ee882d63a7a3b9bb91f21d",
         "name": "Kernel Debug Kit 14.2 build 23C5047e",
-        "seen": "2023-11-14T19:38:41Z",
         "sha256sum": "6fff24f5931b4346d011141664eb4f284adf216660b29c29a0267f1974e6e1ce",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23C5047e/Kernel_Debug_Kit_14.2_build_23C5047e.dmg",
         "version": "14.2"
