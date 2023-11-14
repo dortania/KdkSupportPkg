@@ -37,7 +37,6 @@
         "fileSize": 674005773,
         "md5sum": "dc0f82442d88b29f55cc81178616ece4",
         "name": "Kernel Debug Kit 14.1.1 build 23B81",
-        "seen": "2023-11-14T22:39:04Z",
         "sha256sum": "93e4bcdd7c547cd77dd7c7f9f851ef9634fcb388d5150ee801445fcefc84963a",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23B81/Kernel_Debug_Kit_14.1.1_build_23B81.dmg",
         "version": "14.1.1"
@@ -213,7 +212,6 @@
         "fileSize": 459282010,
         "md5sum": "7333fa79fc10ce266b079f48eb30fd9a",
         "name": "Kernel Debug Kit 13.6.2 build 22G320",
-        "seen": "2023-11-14T22:38:26Z",
         "sha256sum": "4fe5b3274ca49454724e8dd701f9bd602b70f54ccc27ffda2b66e7b75f620445",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G320/Kernel_Debug_Kit_13.6.2_build_22G320.dmg",
         "version": "13.6.2"
