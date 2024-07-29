@@ -201,7 +201,7 @@
     },
     {
         "build": "23G80",
-        "date": "9999-01-01T00:00:00",
+        "date": "2024-07-29T20:38:00",
         "fileSize": 907852583,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 23.6.0: Fri Jul  5 17:54:20 PDT 2024; root:xnu-10063.141.1~2/RELEASE_X86_64",
@@ -1732,7 +1732,7 @@
     },
     {
         "build": "22G820",
-        "date": "9999-01-01T00:00:00",
+        "date": "2024-07-29T20:39:00",
         "fileSize": 723795363,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 22.6.0: Mon Jun 24 01:25:37 PDT 2024; root:xnu-8796.141.3.706.2~1/RELEASE_X86_64",
