@@ -1982,7 +1982,7 @@
         "md5sum": "3ef584063c7205d0203772289205bc28",
         "name": "Kernel Debug Kit 13.6.5 build 22G621",
         "seen": "2024-03-07T22:40:25Z",
-        "sha256sum": "3ac19d71ed55c68271f7c2066b4c7b534b1f89a5a12afaa9ab644269c1e09975",
+        "sha256sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:344293a3-001e-0005-5666-f4338e000000\nTime:2024-08-22T07:39:08.0304393Z</Message><AuthenticationErrorDetail>Signed expiry time [Thu, 22 Aug 2024 07:39:08 GMT] must be after signed start time [Thu, 22 Aug 2024 07:39:08 GMT]</AuthenticationErrorDetail></Error>",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/22G621/Kernel_Debug_Kit_13.6.5_build_22G621.dmg",
         "version": "13.6.5"
     },
