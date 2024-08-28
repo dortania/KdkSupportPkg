@@ -21,14 +21,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: ${{ secrets.CODE_REPO }}
           token: ${{ secrets.CODE_TOKEN }}
           persist-credentials: false
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: pip
@@ -40,8 +40,8 @@ jobs:
         run: python3 run.py ${{ secrets.GITHUB_TOKEN }} ${{ secrets.API_URL }} ${{ secrets.API_TOKEN }}
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        uses: JamesIves/github-pages-deploy-action@v4.6.3
         with:
-          BRANCH: gh-pages
-          FOLDER: deploy/
-          CLEAN: true
+          branch: gh-pages
+          folder: deploy/
+          clean: true
