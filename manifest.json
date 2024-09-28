@@ -949,7 +949,7 @@
         "md5sum": "d859ce5f183322fcc2343d72878ff254",
         "name": "Kernel Debug Kit 14.4 build 23E214",
         "seen": "2024-03-07T22:37:57Z",
-        "sha256sum": "\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html>\n  <head>\n    <title>503 Resource temporarily unavailable</title>\n  </head>\n  <body>\n    <h1>Error 503 Resource temporarily unavailable</h1>\n    <p>Resource temporarily unavailable</p>\n    <h3>Error 54113</h3>\n    <p>Details: cache-bur-kbur8200131-BUR 1727480523 793312047</p>\n    <hr>\n    <p>Varnish cache server</p>\n  </body>\n</html>\n",
+        "sha256sum": "713548c55cabbc87fc9119944dee54356e2de9046936389b162568aeadf93fb6",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23E214/Kernel_Debug_Kit_14.4_build_23E214.dmg",
         "version": "14.4"
     },
