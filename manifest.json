@@ -1226,7 +1226,7 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.4.0: Fri Jan 12 22:41:18 PST 2024; root:xnu-10063.100.610.0.2~19/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.4.0: Fri Jan 12 22:40:08 PST 2024; root:xnu-10063.100.610.0.2~19/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "2051d09a33a281e0669f0c4672fb7f9f",
+        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:b14338c1-c01e-0025-4d27-1a4829000000\nTime:2024-10-09T08:46:03.9998920Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 09 Oct 2024 08:46:04 GMT] - Expiry [Wed, 09 Oct 2024 09:16:04 GMT] - Current [Wed, 09 Oct 2024 08:46:03 GMT]</AuthenticationErrorDetail></Error>",
         "name": "Kernel Debug Kit 14.4 build 23E5180j",
         "seen": "2024-01-29T19:12:46Z",
         "sha256sum": "dd92489a4b2eb6bb0d9538e6be4af6f3ea7ec4be136616aecb78542cb39be9d3",
@@ -1729,7 +1729,7 @@
             "kernel.release.t8112": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:28:31 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_T8112",
             "kernel.release.vmapple": "Darwin Kernel Version 23.1.0: Mon Oct  9 21:26:29 PDT 2023; root:xnu-10002.41.9~6/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "dc0f82442d88b29f55cc81178616ece4",
+        "md5sum": "<?xml version=\"1.0\" encoding=\"utf-8\"?><Error><Code>AuthenticationFailed</Code><Message>Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.\nRequestId:9a4839f3-f01e-002e-6c27-1ab342000000\nTime:2024-10-09T08:46:56.9999383Z</Message><AuthenticationErrorDetail>Signature not valid in the specified time frame: Start [Wed, 09 Oct 2024 08:46:57 GMT] - Expiry [Wed, 09 Oct 2024 09:16:57 GMT] - Current [Wed, 09 Oct 2024 08:46:56 GMT]</AuthenticationErrorDetail></Error>",
         "name": "Kernel Debug Kit 14.1.1 build 23B81",
         "seen": "2023-11-14T22:39:04Z",
         "sha256sum": "93e4bcdd7c547cd77dd7c7f9f851ef9634fcb388d5150ee801445fcefc84963a",
