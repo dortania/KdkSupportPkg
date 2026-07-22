@@ -4122,10 +4122,10 @@
             "kernel.release.t8122": "Darwin Kernel Version 23.5.0: Sat Apr 13 17:32:12 PDT 2024; root:xnu-10063.120.104~34/RELEASE_ARM64_T8122",
             "kernel.release.vmapple": "Darwin Kernel Version 23.5.0: Sat Apr 13 17:31:56 PDT 2024; root:xnu-10063.120.104~34/RELEASE_ARM64_VMAPPLE"
         },
-        "md5sum": "",
+        "md5sum": "737504411db0df3b2f7a7b79be57c5f5",
         "name": "Kernel Debug Kit 14.5 build 23F5064f",
         "seen": "2024-04-23T17:38:13Z",
-        "sha256sum": "",
+        "sha256sum": "27e6cd6385359843dea288948445b124b8fae46afeb5bb92e1ea6319eaa67881",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23F5064f/Kernel_Debug_Kit_14.5_build_23F5064f.dmg",
         "version": "14.5"
     },
@@ -4165,7 +4165,7 @@
         "md5sum": "5a82cec3c1378ddaf0003eeb04e1267e",
         "name": "Kernel Debug Kit 14.5 build 23F5049f",
         "seen": "2024-04-02T21:15:55Z",
-        "sha256sum": "",
+        "sha256sum": "b73cc50f43fd9a5d649775c8fee6d6fa46b530a9be801d17ed1571f2b074b348",
         "url": "https://github.com/dortania/KdkSupportPkg/releases/download/23F5049f/Kernel_Debug_Kit_14.5_build_23F5049f.dmg",
         "version": "14.5"
     },
