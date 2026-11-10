@@ -174,7 +174,7 @@
     },
     {
         "build": "26B7124",
-        "date": "9999-01-01T00:00:00",
+        "date": "2026-11-10T02:26:00",
         "fileSize": 382977299,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 27.2.0: Thu Oct 15 00:10:23 PDT 2026; root:xnu-13432.41.4~26/RELEASE_X86_64",
@@ -987,7 +987,7 @@
     },
     {
         "build": "25G342",
-        "date": "9999-01-01T00:00:00",
+        "date": "2026-11-09T23:34:00",
         "fileSize": 1181028172,
         "kernel_versions": {
             "kernel": "Darwin Kernel Version 25.6.0: Mon Oct 12 00:33:09 PDT 2026; root:xnu-12377.161.15.701.48~2/RELEASE_X86_64",
